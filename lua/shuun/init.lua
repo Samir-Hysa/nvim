@@ -13,3 +13,4 @@ telescope.setup {
     find_command = {'rg', '--files', '--hidden', '-g', '!.git'},
   }
 }
+-- vim.g.netrw_keepdir = 0
